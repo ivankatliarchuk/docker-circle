@@ -5,8 +5,6 @@ This is a quick  node.js appfor the purposes of demonstrating a basic CI/CD work
 
 ## Instructions  
 
-download or pull to your local computer
-https://github.com/bTreePress/Docker-With-Continous-Integration.git
 
 In the root of the project folder run 
 ```javascript
